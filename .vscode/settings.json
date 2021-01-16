@@ -3,6 +3,7 @@
         "stack_using_linked_list.C": "cpp",
         "Quick_sort_Using_Stack.C": "cpp",
         "Queue_Using_linked_list.C": "cpp",
-        "Queue_Using_Array.C": "cpp"
+        "Queue_Using_Array.C": "cpp",
+        "Bubble_Sort.C": "cpp"
     }
 }
