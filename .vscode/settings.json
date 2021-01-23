@@ -5,7 +5,8 @@
         "Queue_Using_linked_list.C": "cpp",
         "Queue_Using_Array.C": "cpp",
         "Bubble_Sort.C": "cpp",
-        "QuickSort.C": "cpp"
+        "QuickSort.C": "cpp",
+        "Singuler_Linked_List.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
